@@ -1,7 +1,7 @@
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 logo: "gsf-logo.png"
-url: "https://toc.greensoftware.org"
+url: "https://toc.greensoftware.foundation"
 footer_content: "<a href=\"https://github.com/Green-Software-Foundation/toc\">Page generated from TOC repo on GitHub</a>"
 aux_links:
   "About":
