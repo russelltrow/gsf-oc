@@ -29,7 +29,7 @@ Projects may not necessarily move through those states in a linear way and may g
 
 # Proposal
 
-Project Proposals must be submitted to the **TOC** for review, using [Proposal Template](TODO). Proposals that are approved enter into an *Incubation* state, unless they are of a refactoring nature, in which case the project is turned over to the relevant project maintainers to handle as they deem fit.
+Project Proposals must be submitted to the **OC** for review, using [Proposal Template](TODO). Proposals that are approved enter into an *Incubation* state, unless they are of a refactoring nature, in which case the project is turned over to the relevant project maintainers to handle as they deem fit.
 
 A Proposal must:
 
@@ -50,7 +50,7 @@ Approved project proposals enter into *Incubation*. For new components and modul
 
 Projects in *Incubation* can overlap with one another. Entering *Incubation* is meant to be fairly easy to allow for community exploration of different ideas.
 
-After a project qualifies to be declared *Graduated*, the *project* maintainers can then vote to request a graduation review by the TOC.
+After a project qualifies to be declared *Graduated*, the *project* maintainers can then vote to request a graduation review by the OC.
 
 Entering *Incubation* does not guarantee that the project will eventually get to the *Graduated* state. Projects may never get to the *Graduated* state.
 
@@ -62,11 +62,11 @@ Projects that have successfully exited the *Incubation* phase are in the *Gradua
 
 # Dormant
 
-Projects enter the *Dormant* state when the normal functions are suspended or slowed down for a period of time. The TOC decides to move a project to or from the *Dormant* state upon request. If *Dormant* projects are re-activated, they re-enter the *Incubation* state even if they entered the *Dormant* state from the *Graduated* state.
+Projects enter the *Dormant* state when the normal functions are suspended or slowed down for a period of time. The OC decides to move a project to or from the *Dormant* state upon request. If *Dormant* projects are re-activated, they re-enter the *Incubation* state even if they entered the *Dormant* state from the *Graduated* state.
 
 # Deprecated
 
-Anyone may propose that a project be *Deprecated* by submitting a rationale and identifying a substitute project or component, if any. The maintainers of the project shall vote on such a request and if it passes, make that recommendation to the TOC. Members of the community that disagree with the request can make their case before the TOC. The TOC will consider all points of view and render a final decision whether to deprecate.
+Anyone may propose that a project be *Deprecated* by submitting a rationale and identifying a substitute project or component, if any. The maintainers of the project shall vote on such a request and if it passes, make that recommendation to the OC. Members of the community that disagree with the request can make their case before the OC. The OC will consider all points of view and render a final decision whether to deprecate.
 
 A *Deprecated* project will be maintained for a six month period by its community, after which it will be removed from any subsequent formal releases. Notice will be given to the public of the project deprecation. After the six-month deprecation period, the project will be labeled *End of Life*.
 

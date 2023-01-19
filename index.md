@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Green Software Foundation TOC
+title: Green Software Foundation OC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# The Green Software Foundation Technical Oversight Committee
+# The Green Software Foundation Oversight Committee
 
 Governing Documents:
 
@@ -19,10 +19,10 @@ Guidelines:
 
 * [Repository Structure](./repository-structure.md)
 * [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
-* [Raising an issue with the TOC](./raising-an-issue.md)
+* [Raising an issue with the OC](./raising-an-issue.md)
 
 Miscellaneous:
 
-* [TOC Members](./toc-members.md)
-* [TOC Responsibilities](./toc-responsibilities.md)
-* [TOC Governance](./toc-governance.md)
+* [OC Members](./oc-members.md)
+* [OC Responsibilities](./oc-responsibilities.md)
+* [OC Governance](./oc-governance.md)
