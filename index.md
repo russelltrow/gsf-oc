@@ -25,3 +25,4 @@ Miscellaneous:
 
 * [TOC Members](./toc-members.md)
 * [TOC Responsibilities](./toc-responsibilities.md)
+* [TOC Governance](./toc-governance.md)
