@@ -2,7 +2,7 @@
 name: New project proposal
 about: To propose and discuss new GSF projects
 title: "[Project] Title Of Project"
-labels: agenda
+labels: project
 assignees: ''
 
 ---
