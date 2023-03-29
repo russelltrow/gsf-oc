@@ -24,6 +24,7 @@ assignees: 'tmcclell, Sealjay, seanmcilroy29'
 - [ ] Open Source
 - [ ] Policy
 - [ ] Standards
+- [ ] Oversight Committee
 
 **Related issues or discussions**:
 
