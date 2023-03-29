@@ -3,6 +3,9 @@ contact_links:
   - name: Green Software Foundation discussions
     url: https://github.com/orgs/Green-Software-Foundation/discussions
     about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: mailto:help@greensoftware.foundation
+  - name: Green Software Foundation helpdesk
+    url: https://greensoftware.foundation/helpdesk
     about: Please contact the Green Software Foundation helpdesk here.
+  - name: Join the Green Software Foundation
+    url: https://greensoftware.foundation/join-us/
+    about: A link to join the foundation.
