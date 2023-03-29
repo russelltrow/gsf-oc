@@ -2,12 +2,16 @@
 name: New project proposal
 about: To propose and discuss new GSF projects
 title: "[Project] Title Of Project"
-labels: project
-assignees: ''
+labels: project, proposed
+assignees: 'tmcclell, Sealjay, seanmcilroy29'
 
 ---
 
 **Working Title**: Official names for projects are very important, we should have a naming process that involves perhaps even our writers/comms people on staff
+
+**Related issues or discussions**:
+
+Please list all related issues so that we can see the originating conversation, e.g. #10 or https://github.com/Green-Software-Foundation/discussions/discussions/5
 
 **Tagline**: A very short description of the project **MAX 8 WORDS**
 
@@ -20,7 +24,12 @@ assignees: ''
 **ToC**: How will this project support one or more of our ToC pillars
 e.g. It will improve tooling by “xxxxx”.
 
-**Governance**: Which working group do you think should govern this project?
+**Governance**: Which working group(s) do you think should govern this project?
+
+- [ ] Community
+- [ ] Open Source
+- [ ] Policy
+- [ ] Standards
 
 **Problem**: List 3-5 problems this audience has that this project will attempt to address. Describe Why is this project better at solving a problem compared to parallel proposals or implemented projects? **MAX 200 WORDS**
 
