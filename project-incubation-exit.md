@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project Incubation Exit Criteria
-nav_order: 5
+title: Project Incubation Exit
+nav_order: 7
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

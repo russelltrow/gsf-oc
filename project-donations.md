@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donating a Project
-nav_order: 6
+nav_order: 11
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Maintainer and Repository Inactivity
-nav_order: 6
+title: Inactivity Policies
+nav_order: 10
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

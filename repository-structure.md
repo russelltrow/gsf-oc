@@ -1,3 +1,10 @@
+---
+layout: default
+title: Repository Structure
+nav_order: 8
+---
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Common Repository Structure
 
 Green Software Foundation projects are required to maintain a standard set of files in each repository. This

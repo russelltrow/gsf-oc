@@ -1,11 +1,11 @@
 ---
 layout: default
-title: OC responsibilities
-nav_order: 21
+title: OC Responsibilities
+nav_order: 3
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# The Green Software Foundation Oversight Committee (OC) responsibilities
+# Responsibilities
 
 * Coordinating the technical direction of the Green Software Foundation.
 * Approving project proposals (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the OC.

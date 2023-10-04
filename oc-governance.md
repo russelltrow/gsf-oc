@@ -1,7 +1,7 @@
 ---
 layout: default
-title: OC governance
-nav_order: 22
+title: OC Governance
+nav_order: 4
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

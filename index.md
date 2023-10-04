@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Green Software Foundation OC
+title: Oversight Committee (OC)
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

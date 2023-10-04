@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Lifecycle
-nav_order: 6
+nav_order: 5
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
