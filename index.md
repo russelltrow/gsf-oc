@@ -9,22 +9,6 @@ has_toc: false
 
 # The Green Software Foundation Oversight Committee
 
-Governing Documents:
+The Oversight Committee is made up of the Working Group chairs and Project Leads for active projects.
 
-* [Antitrust Policy](./antitrust.md)
-* [Project Incubation Exit Criteria](./project-incubation-exit.md)
-* [Project Lifecycle](./project-lifecycle.md)
-* [Release Taxonomy](./release-taxonomy.md)
-* [Maintainer and Repository Inactivity](./inactivity.md)
-
-Guidelines:
-
-* [Repository Structure](./repository-structure.md)
-* [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
-* [Raising an issue with the OC](./raising-an-issue.md)
-
-Miscellaneous:
-
-* [OC Members](./oc-members.md)
-* [OC Responsibilities](./oc-responsibilities.md)
-* [OC Governance](./oc-governance.md)
+Whereas the Steering Committee (SC) is more focused on long term strategic direction of the Foundation the Oversight Committee is more focused on tactical, day to day aspects of running the Foundation.
