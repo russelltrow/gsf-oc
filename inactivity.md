@@ -2,6 +2,7 @@
 layout: default
 title: Inactivity Policies
 nav_order: 10
+parent: Project Lifecycle
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

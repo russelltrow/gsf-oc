@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Repository Structure
-nav_order: 8
+nav_order: 13
+parent: Guidelines
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

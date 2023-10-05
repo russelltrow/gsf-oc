@@ -2,6 +2,7 @@
 layout: default
 title: OC Members
 nav_order: 2
+parent: Oversight Committee (OC)
 nav_exclude: true
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

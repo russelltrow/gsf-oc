@@ -2,6 +2,7 @@
 layout: default
 title: OC Governance
 nav_order: 4
+parent: Oversight Committee (OC)
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Raising an Issue with the OC
+title: Raising an Issue
 nav_order: 12
+parent: Oversight Committee (OC)
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

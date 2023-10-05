@@ -2,6 +2,7 @@
 layout: default
 title: Project Incubation Exit
 nav_order: 7
+parent: Project Lifecycle
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
