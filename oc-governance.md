@@ -11,7 +11,7 @@ parent: Oversight Committee (OC)
 ## Membership
 
 The OC Membership is comprised of the following:
-- Every Project Lead for all [Graduated](https://github.com/Green-Software-Foundation/toc/blob/main/project-lifecycle.md#graduated) projects.
+- Every Project Lead for all active projects.
 - Every Working Group Chair.
 
 All OC members are welcome to join meetings, engage in discussions, raise agenda items and make proposals to the OC chair.
