@@ -9,8 +9,8 @@ parent: Oversight Committee (OC)
 # Responsibilities
 
 * Coordinating the technical direction of the Green Software Foundation.
-* Approving project proposals (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the OC.
-* Establishing community norms, workflows, or policies for releases.
+* Review projects (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the OC.
+* Establishing community norms, workflows, or policies where not covered by working groups.
 * Discussing, seeking consensus, and where necessary, voting on matters that affect multiple projects.
 * Making budget allocation recommendations to the Steering Committee.
 * Making recomendations for changes to the Foundations charter.
